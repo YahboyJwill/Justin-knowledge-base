@@ -1,5 +1,5 @@
 ---
-title: Category 01
+title:
 ---
 ## The Category 01 category index page
 

@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Dragon Ball FighterZ Knowledge Base
 ---
-## The index page
+## Dragon Ball Fighterz Knowledge Base
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+Hey everyone! Welcome to my Dragon Ball FighterZ Knowledge Base! I love team fighters with DBF being my favorite, so creating this knowledge base would be something that shows my passion for the game. 
 
 ## Editing pages
 
