@@ -1,3 +1,3 @@
 Hello everyone! My name is Justin Williams, and I am a senior at Texas Tech University majoring in Human Centered AI. I'm also serving in the US Air Force stationed in Aviano, Italy!
 
-Some things that I love are playing fighting games, eating food, playing with my dog, and just chilling to be honest. Fighting games have been my favorite to play ever since I was a child, so I wanted to create this knowledge base that shows the amount of passion that I have for one of my favorites! 
+Some things that I love are playing fighting games, eating food, playing with my dog, and just chilling to be honest. Fighting games have been my favorite to play ever since I was a child, so I wanted to create this knowledge base that shows the amount of passion that I have for one of my favorites!
