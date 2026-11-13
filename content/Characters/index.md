@@ -1,3 +1,3 @@
 ---
-title: Characters and Teams
+title: characters
 ---

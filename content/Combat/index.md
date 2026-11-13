@@ -1,3 +1,3 @@
 ---
-title: " Combat Mechanics"
+title: " combat"
 ---

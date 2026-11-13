@@ -1,3 +1,3 @@
 ---
-title: Button Knowledge and General Concepts
+title: basics
 ---

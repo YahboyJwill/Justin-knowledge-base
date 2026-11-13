@@ -1,3 +1,3 @@
 ---
-title: Strategies and Tips
+title: strategies
 ---

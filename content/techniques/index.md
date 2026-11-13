@@ -1,3 +1,3 @@
 ---
-title: Techniques
+title: techniques
 ---
