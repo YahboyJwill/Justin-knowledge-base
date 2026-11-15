@@ -1,3 +1,3 @@
 ---
-title: characters
+title: Characters
 ---

@@ -1,3 +1,3 @@
 ---
-title: " combat"
+title: " Combat"
 ---
