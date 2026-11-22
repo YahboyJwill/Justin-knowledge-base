@@ -13,5 +13,5 @@ You will want to block anytime the opponent is throwing an attack that is coming
 ## Tips for Beginners
 
 - If the opponent is in the air coming towards you with a attack, immediately  stand and hold back so that you do not take any damage. 
-- Blocking does not allow for you take any physical damage. [[basics/ki-blasts|ki blasts]] and [[basics/super-attacks|super attacks]] will deal chip damage on block, but will not kill you if your health is low.
+- Blocking does not allow for you take any physical damage. [[basics/ki-blasts|Ki blasts]] and super attacks will deal chip damage on block, but will not kill you if your health is low.
 - If you're ever unsure of what to do, its ALWAYS beneficial to hold back for surprise attacks from the enemy. 

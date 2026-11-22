@@ -4,7 +4,6 @@ title: Basics
 ## Basics Topics
 - [[basics/blocking|Blocking]]
 - [[basics/ki-blasts|Ki Blasts]]
-- [[basics/super-attacks|Super Attacks]]
 - [[basics/super-dash|Super Dash]]
 - [[basics/throws|Throws]]
 - [[basics/vanish|Vanish]]

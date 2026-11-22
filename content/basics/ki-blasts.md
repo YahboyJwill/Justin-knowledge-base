@@ -11,7 +11,9 @@ You should shoot a key blast at any time there is distance between you and the e
 
 ### Countering Ki Blasts
 
-Ki blasts can easily be countered by [[basics/super-dash|super dashing]] when any key blasts are on screen.
+The major flat that ki blasts have is super simple. They can easily be countered by [[basics/super-dash|super dashing]] when any key blasts are on screen because they put you in a vulnerable state. 
+
+> Anytime that you can guess that a enemy is preparing to ki blast you, super dash it. 9 times out of 10 you're going to counter it and be able to follow up with big damage!
 
 ![Super Baby 2 shooting ki blasts towards a enemy in Dragon Ball FighterZ.](https://ricedigital.co.uk/wp-content/uploads/2021/01/ki-1024x579.jpg)
 
