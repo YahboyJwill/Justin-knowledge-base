@@ -3,15 +3,15 @@ title: Ki Blasts
 ---
 # Ki Blasts
 
-Ki blasts are typically a ranged attack that almost everyone has. It can be performed by pressing the "special button" or "S" which will shoot a projectile towards the enemy combatant. Ki blast typically doesn't do a ton of damage, but they are great for keeping space, or to hit the enemy from afar. 
+Ki blasts are typically a ranged attack that almost everyone has. It can be performed by pressing the "special button" or "S" which will shoot a projectile towards the enemy combatant. Ki blast typically don't do a ton of damage, but they are great for keeping space, or to hit the enemy from afar. All ki blast can be [[basics/blocking|blocked]] though
 
 ## When to Shoot a Ki Blast
 
-You should shoot a key blast at any time there is distance between you and the enemy to keep the pressure on them. You should also utilize ki blast as a combo mechanic to help extend your combos or to keep the opponent guessing from your characters toolkit.
+You should shoot a key blast at any time there is distance between you and the enemy to keep the pressure on them. You should also utilize ki blast as a combo mechanic to help extend your combos or to keep the opponent guessing from your characters toolkit. A ki blasts are also great against any characters that are performing any [[basics/throws|throws]] since they are in a vulerable state.
 
 ### Countering Ki Blasts
 
-The major flat that ki blasts have is super simple. They can easily be countered by [[basics/super-dash|super dashing]] when any key blasts are on screen because they put you in a vulnerable state. 
+The major flat that ki blasts have is super simple. They can easily be countered by [[basics/super-dash|super dashing]] when any key blasts are on screen because they put you in a vulnerable state. You can also [[basics/vanish|vanish]] to get behind a ki blast but isn't really recommended. 
 
 > Anytime that you can guess that a enemy is preparing to ki blast you, super dash it. 9 times out of 10 you're going to counter it and be able to follow up with big damage!
 
