@@ -9,7 +9,7 @@ The basics to blocking in Dragon Ball FighterZ (DBFZ) is to block any attacks th
 Blocking in DBFZ is easier than it sounds. T is to block either neutral (standing), for mid and high attacks, or to block low for any low or ground attacks. Blocking, however can not block any [[basics/throws|throws]]. Throws must be dodged by either a jumping, back dashing, or [[basics/vanish|vanishing]]. 
 ### When to block 
 
-You will want to block anytime the opponent is throwing an attack that is coming towards and cannot be avoided. Its also beneficial to block to find spacing (timing that allows you to fight back) in the opponents attacks. Its better to block anytime that it is to throw out a late attack and immediately end up in a combo. 
+You will want to block anytime the opponent is throwing an attack that is coming towards and cannot be avoided. Its also beneficial to block to find spacing (timing that allows you to fight back) in the opponents attacks. Its better to block anytime that it is to throw out a late attack and immediately end up in a combo. You can also block enemy [[basics/super-dash|super dashes]].
 ## Tips for Beginners
 
 - If the opponent is in the air coming towards you with a attack, immediately  stand and hold back so that you do not take any damage. 
